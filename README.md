@@ -36,7 +36,7 @@
 ## 🚀 How to Run
 
     1. Clone this repository:
-        git clone https://github.com/your-username/amazon-clone.git
+        git clone https://github.com/ishivanim/Amazon-Clone.git
 
 
     2. Open the index.html file in any modern web browser.
